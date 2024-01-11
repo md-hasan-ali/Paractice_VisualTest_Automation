@@ -1,0 +1,17 @@
+{
+  "name": "visual-testing-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "cypress-image-diff-html-report": "^2.0.2",
+    "cypress-image-diff-js": "^2.1.3"
+  }
+}
