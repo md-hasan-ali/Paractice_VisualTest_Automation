@@ -1,6 +1,7 @@
+
 // cypress-image-diff.config.js
 const config = {
-    ROOT_DIR: 'visual-test',
+    ROOT_DIR: '',
 };
 
 module.exports = config;
